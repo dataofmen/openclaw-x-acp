@@ -61,7 +61,7 @@ openclaw acp --provenance meta+receipt
 
 ## How to use
 When using the agent, simply provide a URL.
-- "Summarize this X thread: https://x.com/username/status/12345"
-- "Read this X article and give me the key points: https://x.com/username/status/12345"
+- "Summarize this X thread: https://x.com/aiedge_/status/2032466807043580159"
+- "Read this X article and give me the key points: https://x.com/aiedge_/status/2032466807043580159"
 
 The agent will seamlessly request the data from the local server using your cookies, parsing standard short text, threaded replies, and navigating via Playwright to parse long-form articles.
