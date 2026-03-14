@@ -8,7 +8,6 @@ With OpenClaw v2026.3.8+, this tool supports the `--provenance meta+receipt` fla
 Additionally, if you find this tool valuable, please consider supporting the development:
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=github)](https://github.com/sponsors/dataofmen)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/dataofmen)
 
 ### Why sponsor?
 - **Sustainability**: X.com backend changes frequently; sponsorship keeps the maintenance alive.
